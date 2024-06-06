@@ -1,0 +1,51 @@
+{
+    "needsErrorInfo": false,
+    "boxShadow": "none",
+    "mobileBottomRow": 10,
+    "widgetName": "AudioRecorder1",
+    "displayName": "Audio Recorder",
+    "iconSVG": "https://appcdn.appsmith.com/static/media/icon.5cc50f429e2b62c16ce55c3eedb03ee3.svg",
+    "searchTags": [
+        "sound recorder",
+        "voice recorder"
+    ],
+    "topRow": 3,
+    "bottomRow": 10,
+    "parentRowSpace": 10,
+    "type": "AUDIO_RECORDER_WIDGET",
+    "hideCard": false,
+    "mobileRightColumn": 23,
+    "animateLoading": true,
+    "parentColumnSpace": 19.25,
+    "leftColumn": 7,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"}
+    ],
+    "isDisabled": false,
+    "key": "gga53hsk92",
+    "isDeprecated": false,
+    "rightColumn": 23,
+    "thumbnailSVG": "https://appcdn.appsmith.com/static/media/thumbnail.4513fbf2818c6a93ab8300818615fcec.svg",
+    "widgetId": "tignsa1dxl",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "onCanvasUI": {
+        "focusBGCSSVar": "--on-canvas-ui-widget-focus",
+        "disableParentSelection": false,
+        "focusColorCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionBGCSSVar": "--on-canvas-ui-widget-selection",
+        "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
+    },
+    "minWidth": 450,
+    "isVisible": true,
+    "version": 1,
+    "parentId": "0",
+    "tags": ["External"],
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "mobileTopRow": 3,
+    "responsiveBehavior": "fill",
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "mobileLeftColumn": 7,
+    "iconColor": "white"
+}
